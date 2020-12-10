@@ -13,9 +13,6 @@
 
 //from main222
 
-<<<<<<< HEAD
-//from main 333
-=======
 // test moving
 
 // from main2
@@ -26,4 +23,3 @@
 
 55555
 
->>>>>>> afba7b512ef23f628ff95f6597405142ad16192f
